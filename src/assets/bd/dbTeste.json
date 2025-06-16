@@ -1,0 +1,292 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome_produto": "Arroz Branco Tipo 1",
+      "descricao_produto": "Arroz branco de qualidade premium, ideal para acompanhamentos e pratos principais.",
+      "qtd_produto": 100,
+      "img_produto": "https://m.media-amazon.com/images/I/81-Yw7YyRBL.jpg",
+      "preco_produto": 12.99
+    },
+    {
+      "id": 2,
+      "nome_produto": "Feijão Carioca",
+      "descricao_produto": "Feijão carioca de primeira qualidade, ideal para feijão tropeiro, arroz e feijão.",
+      "qtd_produto": 80,
+      "img_produto": "https://www.extramercado.com.br/img/uploads/1/297/10723297.jpeg",
+      "preco_produto": 8.49
+    },
+    {
+      "id": 3,
+      "nome_produto": "Macarrão Instantâneo",
+      "descricao_produto": "Macarrão instantâneo com tempero saboroso, fácil e rápido de preparar.",
+      "qtd_produto": 200,
+      "img_produto": "https://fortatacadista.vteximg.com.br/arquivos/ids/293352-800-800/7891079000229.jpg?v=637599627361200000",
+      "preco_produto": 2.19
+    },
+    {
+      "id": 4,
+      "nome_produto": "Coca-Cola Lata 350ml",
+      "descricao_produto": "Refrigerante de cola, sabor refrescante, embalado em lata de 350ml.",
+      "qtd_produto": 150,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafBq8vt45nEcDZK3WBXpWw_2GC6qn9XmvhQ&s",
+      "preco_produto": 3.99
+    },
+    {
+      "id": 5,
+      "nome_produto": "Sopa de Legumes Enlatada",
+      "descricao_produto": "Sopa de legumes pronta, nutritiva e deliciosa, ideal para refeições rápidas.",
+      "qtd_produto": 60,
+      "img_produto": "https://phygital-files.mercafacil.com/primato/uploads/produto/sopa_knorr_73g_letrinhas_205c2379-51fc-41e3-91a8-91a03d4408c5.jpg",
+      "preco_produto": 5.89
+    },
+    {
+      "id": 6,
+      "nome_produto": "Milho Verde Enlatado",
+      "descricao_produto": "Milho verde em conserva, perfeito para saladas, sopas e outros pratos.",
+      "qtd_produto": 120,
+      "img_produto": "https://mercantilatacado.vtexassets.com/arquivos/ids/187834-800-auto?v=638352345644000000&width=800&height=auto&aspect=true",
+      "preco_produto": 4.29
+    },
+    {
+      "id": 7,
+      "nome_produto": "Atum em Lata",
+      "descricao_produto": "Atum em conserva de alta qualidade, ideal para saladas e pratos rápidos.",
+      "qtd_produto": 75,
+      "img_produto": "https://prezunic.vtexassets.com/arquivos/ids/178816-800-auto?v=638368808513500000&width=800&height=auto&aspect=true",
+      "preco_produto": 9.99
+    },
+    {
+      "id": 8,
+      "nome_produto": "Ervilha Enlatada",
+      "descricao_produto": "Ervilha em conserva, pronta para consumo e ideal para complementar suas receitas.",
+      "qtd_produto": 90,
+      "img_produto": "https://ibassets.com.br/ib.item.image.large/l-202b4918e350460cb3e859778e2a20bc.jpeg",
+      "preco_produto": 3.79
+    },
+    {
+      "id": 9,
+      "nome_produto": "Molho de Tomate Pronto",
+      "descricao_produto": "Molho de tomate pronto, ideal para massas, pizzas e outros pratos.",
+      "qtd_produto": 110,
+      "img_produto": "https://marata.com.br/wp-content/uploads/2020/08/tradicional.jpg",
+      "preco_produto": 3.49
+    },
+    {
+      "id": 10,
+      "nome_produto": "Suco de Laranja Caixa 1L",
+      "descricao_produto": "Suco natural de laranja, sem conservantes, embalagem de 1 litro.",
+      "qtd_produto": 130,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4UnwwCo9eVMVcDcvHladrTxwaeZGyXs6dJw&s",
+      "preco_produto": 7.99
+    },
+    {
+      "id": 11,
+      "nome_produto": "Óleo de Soja",
+      "descricao_produto": "Óleo de soja refinado, ideal para frituras e preparos de pratos variados.",
+      "qtd_produto": 200,
+      "img_produto": "https://mercantilnovaera.vtexassets.com/arquivos/ids/214695-800-450?v=638447417992900000&width=800&height=450&aspect=true",
+      "preco_produto": 10.49
+    },
+    {
+      "id": 12,
+      "nome_produto": "Leite Condensado",
+      "descricao_produto": "Leite condensado de alta qualidade, ideal para sobremesas e receitas culinárias.",
+      "qtd_produto": 150,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnW2D7oekKeZ0VakgRP3oV4mu6DDAHsqf3Wg&s",
+      "preco_produto": 6.79
+    },
+    {
+      "id": 13,
+      "nome_produto": "Molho Shoyu",
+      "descricao_produto": "Molho shoyu tradicional, utilizado em pratos orientais e temperos diversos.",
+      "qtd_produto": 80,
+      "img_produto": "https://marata.com.br/wp-content/uploads/2020/09/shoyu-800x800px.png",
+      "preco_produto": 8.99
+    },
+    {
+      "id": 14,
+      "nome_produto": "Achocolatado em Pó",
+      "descricao_produto": "Achocolatado em pó, perfeito para misturar com leite e preparar bebidas deliciosas.",
+      "qtd_produto": 100,
+      "img_produto": "https://m.media-amazon.com/images/I/81CN3Co1GFL.jpg",
+      "preco_produto": 9.49
+    },
+    {
+      "id": 15,
+      "nome_produto": "Cereal Matinal",
+      "descricao_produto": "Cereal matinal crocante, ideal para o café da manhã, com vitaminas e nutrientes.",
+      "qtd_produto": 90,
+      "img_produto": "https://m.media-amazon.com/images/I/81NbjYdeO9L.jpg",
+      "preco_produto": 12.99
+    },
+    {
+      "id": 16,
+      "nome_produto": "Azeite de Oliva Extra Virgem",
+      "descricao_produto": "Azeite de oliva extra virgem, 100% natural, ideal para temperar e cozinhar.",
+      "qtd_produto": 60,
+      "img_produto": "https://a-static.mlcdn.com.br/1500x1500/azeite-de-oliva-gallo-classico-extravirgem-500ml/magazineluiza/225388400/2969f6cda896ab041274810cf82242c8.jpg",
+      "preco_produto": 24.99
+    },
+    {
+      "id": 17,
+      "nome_produto": "Pasta de Amendoim",
+      "descricao_produto": "Pasta de amendoim cremosa, rica em proteínas e ideal para lanches e receitas.",
+      "qtd_produto": 120,
+      "img_produto": "https://cdn.awsli.com.br/1411/1411579/produto/58769486/amendopower_tradicional_1-005kg_junto-iygyi3wrv0.jpg",
+      "preco_produto": 14.99
+    },
+    {
+      "id": 18,
+      "nome_produto": "Feijão Preto",
+      "descricao_produto": "Feijão preto de excelente qualidade, ideal para feijoada e outros pratos.",
+      "qtd_produto": 150,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR155PQuSjyrOyMKHntIKgADj-O9yyVqJEjiA&s",
+      "preco_produto": 8.99
+    },
+    {
+      "id": 19,
+      "nome_produto": "Frango Desfiado Enlatado",
+      "descricao_produto": "Frango desfiado em conserva, pronto para consumo em saladas, tortas e sanduíches.",
+      "qtd_produto": 60,
+      "img_produto": "https://down-br.img.susercontent.com/file/sg-11134201-7rdvd-lz5grp2ovcz8c0",
+      "preco_produto": 11.49
+    },
+    {
+      "id": 20,
+      "nome_produto": "Cerveja Lata 350ml",
+      "descricao_produto": "Cerveja refrescante em lata de 350ml, sabor suave e perfeito para churrascos.",
+      "qtd_produto": 200,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxL_bf2VfnASL7UBCyOcL9YfTcWGNZrOtgMA&s",
+      "preco_produto": 3.49
+    },
+    {
+      "id": 21,
+      "nome_produto": "Chá Gelado Lata",
+      "descricao_produto": "Chá gelado pronto para consumo, sabor limão, embalagem de 350ml.",
+      "qtd_produto": 180,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQzpTxml601fhitIoDTH85taBV9XXYplW-Q&s",
+      "preco_produto": 2.99
+    },
+    {
+      "id": 22,
+      "nome_produto": "Molho Barbecue",
+      "descricao_produto": "Molho barbecue doce e defumado, ideal para carnes grelhadas e hambúrgueres.",
+      "qtd_produto": 90,
+      "img_produto": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/c_limit,w_3840/f_auto/q_auto/v1/dxp-images/heinz/products/07896102000160-molho-barbecue-heinz-397g/product-image-front-center-in-package-no-plunge-a-1n1_c16bd354f74c35d8189087d3c465b3d7a227fac3_9032e127ca7979b3def6fff1461b3e80?_a=BAVAfVDW0",
+      "preco_produto": 7.49
+    },
+    {
+      "id": 23,
+      "nome_produto": "Coxinha de Frango Congelada",
+      "descricao_produto": "Coxinha de frango empanada e congelada, fácil de preparar e saborosa.",
+      "qtd_produto": 150,
+      "img_produto": "https://fontinialimentos.com.br/wp-content/uploads/2016/06/9315-9678-5428-9680-5895-6006-7967-5714-7968-Salgado-Congelado-Coxinha-Fontini-1.png",
+      "preco_produto": 15.99
+    },
+    {
+      "id": 24,
+      "nome_produto": "Salsicha em Lata",
+      "descricao_produto": "Salsichas em conserva, prontas para consumo e perfeitas para lanches rápidos.",
+      "qtd_produto": 200,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPukl2mdf6cnLQDyml2Z9eshqCEHnTQauQg&s",
+      "preco_produto": 5.99
+    },
+    {
+      "id": 25,
+      "nome_produto": "Café Solúvel",
+      "descricao_produto": "Café solúvel de alta qualidade, ideal para preparar rapidamente.",
+      "qtd_produto": 130,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEQzIZJZPcIldEKGELPfSyINGPlNkAbrmew&s",
+      "preco_produto": 14.99
+    },
+    {
+      "id": 26,
+      "nome_produto": "Pipoca de Micro-ondas",
+      "descricao_produto": "Pipoca de micro-ondas, sabor manteiga, pronta em poucos minutos.",
+      "qtd_produto": 200,
+      "img_produto": "https://prodcontent.yoki.com.br/wp-content/uploads/2024/09/Yoki_PDP_Pipoca-Micro-ondas-Manteiga-100g-min_460x460.png",
+      "preco_produto": 3.29
+    },
+    {
+      "id": 27,
+      "nome_produto": "Doce de Leite",
+      "descricao_produto": "Doce de leite cremoso, ideal para sobremesas ou para consumir com pães.",
+      "qtd_produto": 75,
+      "img_produto": "https://images.tcdn.com.br/img/img_prod/834515/doce_de_leite_aviacao_tradicional_pote_400_g_3_1_20200819105811.jpg",
+      "preco_produto": 8.99
+    },
+    {
+      "id": 28,
+      "nome_produto": "Margarina Cremosa",
+      "descricao_produto": "Margarina cremosa, ideal para passar no pão ou para cozinhar.",
+      "qtd_produto": 100,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7Fyw3DI7aQPiW2DT5DGP0zdK3ywsX1puGg&s",
+      "preco_produto": 4.49
+    },
+    {
+      "id": 29,
+      "nome_produto": "Feijão Branco Enlatado",
+      "descricao_produto": "Feijão branco em conserva, pronto para consumo e ideal para sopas e saladas.",
+      "qtd_produto": 50,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjoKIuxsCEiCiT1Q585sXQwBaSlAYNms2UsQ&s",
+      "preco_produto": 5.49
+    },
+    {
+      "id": 30,
+      "nome_produto": "Macarrão de Arroz Instantâneo",
+      "descricao_produto": "Macarrão de arroz instantâneo, sem glúten, fácil de preparar.",
+      "qtd_produto": 120,
+      "img_produto": "https://images.tcdn.com.br/img/img_prod/1175791/macarrao_instantaneo_bifum_sem_gluten_so_arroz_449_1_d850e7f4ea461d98d0cb053efe0533ea.jpg",
+      "preco_produto": 6.99
+    },
+    {
+      "id": 31,
+      "nome_produto": "Creme de Leite",
+      "descricao_produto": "Creme de leite de alta qualidade, ideal para sobremesas e molhos.",
+      "qtd_produto": 80,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBwfTlE0AoZ0Ee96O76smRnXUxpoyKVutvg&s",
+      "preco_produto": 3.99
+    },
+    {
+      "id": 32,
+      "nome_produto": "Chocotone",
+      "descricao_produto": "Chocotone recheado com gotas de chocolate, ideal para festas de fim de ano.",
+      "qtd_produto": 150,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTI1tAB6SMQevF5uzRbbZ6_Rk-FrVhptgeBQ&s",
+      "preco_produto": 19.99
+    },
+    {
+      "id": 33,
+      "nome_produto": "Batata Palha",
+      "descricao_produto": "Batata palha crocante, ideal para acompanhar pratos como arroz e feijão.",
+      "qtd_produto": 180,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdWHeIcFZTMjhi11BR05Z53UbddntFjhA5g&s",
+      "preco_produto": 7.99
+    },
+    {
+      "id": 34,
+      "nome_produto": "Sal de Cozinha",
+      "descricao_produto": "Sal de cozinha refinado, essencial para temperar e preparar diversos pratos.",
+      "qtd_produto": 250,
+      "img_produto": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/1085.jpg",
+      "preco_produto": 1.99
+    },
+    {
+      "id": 35,
+      "nome_produto": "Azeitona Verde",
+      "descricao_produto": "Azeitonas verdes em conserva, perfeitas para saladas e petiscos.",
+      "qtd_produto": 100,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKRCeJdFX6mUssouPzeVCiPnaZYBM8JdTgg&s",
+      "preco_produto": 6.49
+    },
+    {
+      "id": 36,
+      "nome_produto": "Refrigerante Guaraná Lata 350ml",
+      "descricao_produto": "Refrigerante de guaraná, refrescante e com sabor autêntico de guaraná.",
+      "qtd_produto": 150,
+      "img_produto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR42L0MRvhCGhpsslHej66WBRiXRtUHCaYX5w&s",
+      "preco_produto": 3.79
+    }
+  ]
+}
